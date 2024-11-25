@@ -1,0 +1,8 @@
+callback
+=========
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Modules callback:
+
+   detail_commune_callback
